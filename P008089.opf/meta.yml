@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD159523
   title: ༢༠༡༡་ལོའི་བསྒྱུར་རྩོམ།
-  volume: ''
+  volume:
+    46c3f0b6950741ef9e143069127bd8ea:
+      image_group_id: I2PD19015
+      title: Volume 1 of bsgyur rtsom/
+      volume_number: 1
+      total_pages: 298
   author: ''
+ebook_metadata:
+  title: ༢༠༡༡་ལོའི་བསྒྱུར་རྩོམ།
+  author: ''
+  sku: P008089
+  cover: cover.jpg
+  layers:
+  - pagination
